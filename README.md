@@ -209,4 +209,4 @@ This repository serves as the official landing page for Ad-Aware Pro Security. T
 **Get the most recent version of Ad-Aware Pro Security today!**
 
 ---
-**Last updated:** 2026-11-07 16:17:01 UTC
+**Last updated:** 2026-11-07 20:40:56 UTC
